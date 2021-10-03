@@ -1,0 +1,25 @@
+C:\Users\Julio\source\repos\Intento de Videojuego\Intento de Videojuego\bin\Debug\Intento de Videojuego.exe.config
+C:\Users\Julio\source\repos\Intento de Videojuego\Intento de Videojuego\bin\Debug\Intento de Videojuego.exe
+C:\Users\Julio\source\repos\Intento de Videojuego\Intento de Videojuego\bin\Debug\Intento de Videojuego.pdb
+C:\Users\Julio\source\repos\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento de Videojuego.csprojAssemblyReference.cache
+C:\Users\Julio\source\repos\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento_de_Videojuego.Properties.Resources.resources
+C:\Users\Julio\source\repos\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento de Videojuego.csproj.GenerateResource.cache
+C:\Users\Julio\source\repos\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento de Videojuego.exe
+C:\Users\Julio\source\repos\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento de Videojuego.pdb
+C:\Users\Julio\source\repos\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento_de_Videojuego.FormPrincipal.resources
+C:\Users\Julio\source\repos\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento_de_Videojuego.Nivel1.resources
+C:\Users\Nero\Desktop\Intento de Videojuego\Intento de Videojuego\bin\Debug\Intento de Videojuego.exe.config
+C:\Users\Nero\Desktop\Intento de Videojuego\Intento de Videojuego\bin\Debug\Intento de Videojuego.exe
+C:\Users\Nero\Desktop\Intento de Videojuego\Intento de Videojuego\bin\Debug\Intento de Videojuego.pdb
+C:\Users\Nero\Desktop\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento de Videojuego.csprojAssemblyReference.cache
+C:\Users\Nero\Desktop\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento_de_Videojuego.FormPrincipal.resources
+C:\Users\Nero\Desktop\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento_de_Videojuego.Nivel1.resources
+C:\Users\Nero\Desktop\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento_de_Videojuego.Properties.Resources.resources
+C:\Users\Nero\Desktop\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento de Videojuego.csproj.GenerateResource.cache
+C:\Users\Nero\Desktop\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento de Videojuego.csproj.CoreCompileInputs.cache
+C:\Users\Nero\Desktop\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento de Videojuego.exe
+C:\Users\Nero\Desktop\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento de Videojuego.pdb
+C:\Users\Nero\Desktop\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento_de_Videojuego.Presentacion.TitleScreen.resources
+C:\Users\Nero\Desktop\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento_de_Videojuego.Nivel3.resources
+C:\Users\Nero\Desktop\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento_de_Videojuego.Nivel2.resources
+C:\Users\Nero\Desktop\Intento de Videojuego\Intento de Videojuego\obj\Debug\Intento_de_Videojuego.Presentacion.Creditos.resources
